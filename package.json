@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/js-republic/pixijs_test#readme",
   "dependencies": {
+    "parceljs": "0.0.1",
     "pixi.js": "^5.2.0"
   }
 }
